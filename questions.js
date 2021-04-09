@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "I hate cometition.",
+        "question": "I hate competition.",
         "effect": {
             "econ": 10,
             "dipl": 0,
