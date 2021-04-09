@@ -129,8 +129,8 @@ questions = [
         "question": "Question.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
-            "govt": 0,
+            "dipl": 0,
+            "govt": -10,
             "scty": 0
         }
     },
@@ -139,8 +139,8 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "govt": 0,
+            "scty": -10
         }
     }
 ];
