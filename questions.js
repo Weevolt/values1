@@ -189,7 +189,7 @@ questions = [
         }
     },
     {
-        "question": "My Nation should be free to decide its own future.",
+        "question": "My nation should be free to decide its own future.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -207,7 +207,7 @@ questions = [
         }
     },
     {
-        "question": "Regional unions such as the European Union are Desirable.",
+        "question": "Regional unions such as the European Union are desirable.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -297,7 +297,7 @@ questions = [
         }
     },
     {
-        "question": "The state should be abolished in favor of Anarchism.",
+        "question": "The state should be abolished in favor of anarchy.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -450,7 +450,7 @@ questions = [
         }
     },
     {
-        "question": "Drug use should be looked down upon in our Society.",
+        "question": "Drug use should be looked down upon in our society.",
         "effect": {
             "econ": 0,
             "dipl": 0,
