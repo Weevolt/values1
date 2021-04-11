@@ -9,7 +9,7 @@ questions = [
         }
     },
     {
-        "question": "The right of peaceful protest shall never be infringed upon.",
+        "question": "The right to peacefully protest shall never be infringed upon.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -29,7 +29,7 @@ questions = [
     {
         "question": "Welfare should be cut or completely abolished to cut government spending",
         "effect": {
-            "econ": 10,
+            "econ": -10,
             "dipl": 0,
             "govt": 0,
             "scty": 0
@@ -48,7 +48,7 @@ questions = [
         "question": "Tariffs on international trade are important to encourage local production.",
         "effect": {
             "econ": 5,
-            "dipl": 0,
+            "dipl": -10,
             "govt": 0,
             "scty": 0
         }
@@ -153,7 +153,7 @@ questions = [
         }
     },
     {
-        "question": "individualism is inferior to collectivism or communitarianism.",
+        "question": "question.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -200,9 +200,9 @@ questions = [
     {
         "question": "State sponsored media is preferable to independent or corporate media.",
         "effect": {
-            "econ": 0,
+            "econ": 5,
             "dipl": 0,
-            "govt": -5,
+            "govt": -10,
             "scty": 0
         }
     },
@@ -236,7 +236,7 @@ questions = [
     {
         "question": "Autarky is a sensible form of economics.",
         "effect": {
-            "econ": 2,
+            "econ": 5,
             "dipl": -5,
             "govt": 0,
             "scty": 0
@@ -248,7 +248,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 5
+            "scty": 10
         }
     },
     {
@@ -261,12 +261,12 @@ questions = [
         }
     },
     {
-        "question": "Pornography gives a negative effect to society.",
+        "question": "Pornography depicting consenting adults should be legal for the adult population.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 0,
-            "scty": -10
+            "govt": 10,
+            "scty": 5
         }
     },
     {
@@ -275,7 +275,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 10,
-            "scty": 2
+            "scty": 0
         }
     },
     {
@@ -283,8 +283,8 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "govt": 5,
+            "scty": 10
         }
     },
     {
@@ -324,7 +324,7 @@ questions = [
         }
     },
     {
-        "question": "There's no such thing as a victimless crime, all crimes have victims including drug use.",
+        "question": "Victimless crime are still crimes and should be punished.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -342,7 +342,7 @@ questions = [
         }
     },
     {
-        "question": "A hierarchical state is best.",
+        "question": "question.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -362,7 +362,7 @@ questions = [
     {
         "question": "If well compensated, eminent domain (the taking of property) is acceptable.",
         "effect": {
-            "econ": 2,
+            "econ": 10,
             "dipl": 0,
             "govt": -10,
             "scty": 0
@@ -382,8 +382,8 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -2,
-            "scty": -10
+            "govt": -10,
+            "scty": -5
         }
     },
     {
@@ -416,10 +416,10 @@ questions = [
     {
         "question": "The practice of animal testing should be banned.",
         "effect": {
-            "econ": 2,
+            "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 5
+            "scty": 10
         }
     },
     {
@@ -436,7 +436,7 @@ questions = [
         "effect": {
             "econ": 5,
             "dipl": 0,
-            "govt": 0,
+            "govt": -5,
             "scty": 0
         }
     },
@@ -452,10 +452,10 @@ questions = [
     {
         "question": "There's no such thing as equality in the world.",
         "effect": {
-            "econ": 0,
+            "econ": -10,
             "dipl": 0,
             "govt": 0,
-            "scty": -10
+            "scty": 0
         }
     },
     {
@@ -468,12 +468,12 @@ questions = [
         }
     },
     {
-        "question": "I see no nationality, race, religion or other, I only see fellow human beings.",
+        "question": "I see no nationality or race, I only see fellow human beings.",
         "effect": {
             "econ": 0,
             "dipl": 10,
             "govt": 0,
-            "scty": 10
+            "scty": 0
         }
     },
     {
@@ -491,7 +491,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": -10
         }
     },
     {
@@ -504,7 +504,7 @@ questions = [
         }
     },
     {
-        "question": "We must protect transgender individuals from discrimination.",
+        "question": "We must accept transgender people.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -599,7 +599,7 @@ questions = [
             "econ": 0,
             "dipl": 10,
             "govt": 0,
-            "scty": 5
+            "scty": 10
         }
     },
     {
@@ -612,16 +612,16 @@ questions = [
         }
     },
     {
-        "question": "Tolerance isn't something we should strive for in society as it creates a weak nation.",
+        "question": "Tolerance isn't something we should strive for in society.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": 0,
             "govt": 0,
             "scty": -10
         }
     },
     {
-        "question": "Homogeneity is necessary to keep order.",
+        "question": "Cultural homogeneity is necessary to keep order.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -657,7 +657,7 @@ questions = [
         }
     },
     {
-        "question": "Wrongful behaviours of companies are caused by governmental regulations.",
+        "question": "Wrongful behaviours of companies are often caused by governmental regulations.",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -680,7 +680,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": -10
+            "scty": 10
         }
     },
     {
@@ -711,7 +711,7 @@ questions = [
         }
     },
     {
-        "question": "Race is a social construct.",
+        "question": "question.",
         "effect": {
             "econ": 0,
             "dipl": 0,
