@@ -36,7 +36,7 @@ questions = [
         }
     },
     {
-        "question": "Money should be abolished.",
+        "question": "We should strive for a moneyless society.",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -49,15 +49,6 @@ questions = [
         "effect": {
             "econ": 5,
             "dipl": -10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Rent should be abolished.",
-        "effect": {
-            "econ": 10,
-            "dipl": 0,
             "govt": 0,
             "scty": 0
         }
@@ -153,15 +144,6 @@ questions = [
         }
     },
     {
-        "question": "question.",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
         "question": "International groups do not have the right to intervene against independent nations.",
         "effect": {
             "econ": 0,
@@ -237,7 +219,7 @@ questions = [
         "question": "Autarky is a sensible form of economics.",
         "effect": {
             "econ": 5,
-            "dipl": -5,
+            "dipl": -10,
             "govt": 0,
             "scty": 0
         }
@@ -283,7 +265,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 5,
+            "govt": 10,
             "scty": 10
         }
     },
@@ -338,15 +320,6 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "question.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
             "scty": 0
         }
     },
@@ -415,15 +388,6 @@ questions = [
     },
     {
         "question": "The practice of animal testing should be banned.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
-        }
-    },
-    {
-        "question": "Women need to reject traditionalism as an abusive policy.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -708,15 +672,6 @@ questions = [
             "dipl": 0,
             "govt": -10,
             "scty": 0
-        }
-    },
-    {
-        "question": "question.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
         }
     }
 ];
