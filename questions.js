@@ -270,15 +270,6 @@ questions = [
         }
     },
     {
-        "question": "The French Revolution was more of a negative for our world then anything.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
-        }
-    },
-    {
         "question": "The state should be as small as possible.",
         "effect": {
             "econ": 0,
@@ -361,15 +352,6 @@ questions = [
     },
     {
         "question": "Degeneracy is a real problem that we shouldn't take lightly.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
-        }
-    },
-    {
-        "question": "Urban society is inferior to all others.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -495,12 +477,12 @@ questions = [
         }
     },
     {
-        "question": "Abortion is a disgusting act that is similar to murder.",
+        "question": "Abortion should be legal in all cases.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": -10
+            "scty": 10
         }
     },
     {
