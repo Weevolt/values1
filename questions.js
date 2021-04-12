@@ -144,7 +144,7 @@ questions = [
         }
     },
     {
-        "question": "International groups do not have the right to intervene against independent nations.",
+        "question": "The values of my country are superior to those of other countries.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -162,7 +162,7 @@ questions = [
         }
     },
     {
-        "question": "I support International Military alliances such as CSTO, NATO etc.",
+        "question": "I support international military alliances such as CSTO, NATO etc.",
         "effect": {
             "econ": 0,
             "dipl": 10,
