@@ -468,12 +468,12 @@ questions = [
         }
     },
     {
-        "question": "We must accept transgender people.",
+        "question": "Transgender individuals will never really be of the gender they would like to be.",
         "effect": {
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": -10
         }
     },
     {
