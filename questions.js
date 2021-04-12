@@ -315,15 +315,6 @@ questions = [
         }
     },
     {
-        "question": "We should return to tradition, without modern convenience.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
-        }
-    },
-    {
         "question": "If well compensated, eminent domain (the taking of property) is acceptable.",
         "effect": {
             "econ": 10,
@@ -582,15 +573,6 @@ questions = [
             "dipl": 0,
             "govt": 0,
             "scty": 0
-        }
-    },
-    {
-        "question": "Marriage is an important part of society that should be defended.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
         }
     },
     {
