@@ -9,7 +9,7 @@ questions = [
         }
     },
     {
-        "question": "The right to peacefully protest shall never be infringed upon.",
+        "question": "All citizens should have the right to peacefully protest.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -315,7 +315,7 @@ questions = [
         }
     },
     {
-        "question": "Freedom of Speech in regards to the law is a human right.",
+        "question": "Freedom of speech in regards to the law is a human right.",
         "effect": {
             "econ": 0,
             "dipl": 0,
