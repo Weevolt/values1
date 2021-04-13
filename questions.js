@@ -324,6 +324,15 @@ questions = [
         }
     },
     {
+        "question": "We must help our allies, even when it does not benefit us.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
         "question": "Freedom of speech in regards to the law is a human right.",
         "effect": {
             "econ": 0,
