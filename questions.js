@@ -378,15 +378,6 @@ questions = [
         }
     },
     {
-        "question": "Degeneracy is a real problem that we shouldn't take lightly.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
-        }
-    },
-    {
         "question": "We need to accelerate technological growth.",
         "effect": {
             "econ": 0,
