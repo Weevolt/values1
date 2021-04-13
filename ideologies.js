@@ -27,12 +27,12 @@ ideologies = [
         }
     },
     {
-        "name": "Marxism",
+        "name": "Reactionary Liberalism",
         "stats": {
-            "econ": 100,
-            "dipl": 70,
-            "govt": 40,
-            "scty": 80
+            "econ": 20,
+            "dipl": 5,
+            "govt": 60,
+            "scty": 5
         }
     },
     {
