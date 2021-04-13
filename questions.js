@@ -225,15 +225,6 @@ questions = [
         }
     },
     {
-        "question": "Every opinion is equal and should be looked as such by society.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 5,
-            "scty": 0
-        }
-    },
-    {
         "question": "Regional unions such as the European Union are desirable.",
         "effect": {
             "econ": 0,
