@@ -191,7 +191,7 @@ questions = [
     {
         "question": "State sponsored media is preferable to independent or corporate media.",
         "effect": {
-            "econ": 5,
+            "econ": 10,
             "dipl": 0,
             "govt": -10,
             "scty": 0
@@ -245,7 +245,7 @@ questions = [
     {
         "question": "Autarky is a sensible form of economics.",
         "effect": {
-            "econ": 5,
+            "econ": 0,
             "dipl": -10,
             "govt": 0,
             "scty": 0
