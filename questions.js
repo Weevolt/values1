@@ -180,7 +180,7 @@ questions = [
         }
     },
     {
-        "question": "Wars do not need to be justified to other countries.",
+        "question": "My country should only join wars when it is attacked first.",
         "effect": {
             "econ": 0,
             "dipl": -10,
