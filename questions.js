@@ -1,5 +1,14 @@
 questions = [
     {
+        "question": "Being proud of one's nationality is unfounded.",
+        "effect": {
+            "econ": 0,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
         "question": "Private property should be defended.",
         "effect": {
             "econ": -10,
