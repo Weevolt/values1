@@ -9,9 +9,9 @@ questions = [
         }
     },
     {
-        "question": "Private property should be defended.",
+        "question": "Private property should be abolished.",
         "effect": {
-            "econ": -10,
+            "econ": 10,
             "dipl": 0,
             "govt": 0,
             "scty": 0
