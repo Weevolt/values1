@@ -56,7 +56,7 @@ questions = [
     {
         "question": "Tariffs on international trade are important to encourage local production.",
         "effect": {
-            "econ": 5,
+            "econ": 0,
             "dipl": -10,
             "govt": 0,
             "scty": 0
@@ -456,6 +456,15 @@ questions = [
             "dipl": 0,
             "govt": 0,
             "scty": 10
+        }
+    },
+    {
+        "question": "Undocumented immigrants are criminals and should be deported when caught.",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
         }
     },
     {
