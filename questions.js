@@ -383,7 +383,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": -10,
-            "scty": -5
+            "scty": -10
         }
     },
     {
