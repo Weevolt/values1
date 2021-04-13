@@ -351,6 +351,15 @@ questions = [
         }
     },
     {
+        "question": "Offshoring and outsourcing are necessary evils to improve production.",
+        "effect": {
+            "econ": -10,
+            "dipl": 10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
         "question": "We need to establish an Aristocratic-style of government to defend tradition.",
         "effect": {
             "econ": 0,
