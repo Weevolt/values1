@@ -216,6 +216,15 @@ questions = [
         }
     },
     {
+        "question": "Democracy is always better than monarchy.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 10,
+            "scty": 0
+        }
+    },
+    {
         "question": "Every opinion is equal and should be looked as such by society.",
         "effect": {
             "econ": 0,
