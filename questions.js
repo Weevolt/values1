@@ -389,9 +389,9 @@ questions = [
     {
         "question": "Either the state or the community should have regulations to protect the environment.",
         "effect": {
-            "econ": 5,
+            "econ": 10,
             "dipl": 0,
-            "govt": -5,
+            "govt": -10,
             "scty": 0
         }
     },
