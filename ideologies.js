@@ -399,9 +399,9 @@ ideologies = [
         "name": "Neo-Conservatism",
         "stats": {
             "econ": 20,
-            "dipl": 20,
+            "dipl": 60,
             "govt": 40,
-            "scty": 20
+            "scty": 40
         }
     },
     {
