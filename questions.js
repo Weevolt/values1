@@ -162,7 +162,7 @@ questions = [
         }
     },
     {
-        "question": "I support international military alliances such as CSTO, NATO etc.",
+        "question": "My country must pay for the damages caused by the crimes it committed in other countries.",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -190,6 +190,15 @@ questions = [
     },
     {
         "question": "My nation should be free to decide its own future.",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
+        "question": "It is necessary to teach history in order to create a sense of belonging to the nation.",
         "effect": {
             "econ": 0,
             "dipl": -10,
