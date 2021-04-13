@@ -270,15 +270,6 @@ questions = [
         }
     },
     {
-        "question": "Pornography depicting consenting adults should be legal for the adult population.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 5
-        }
-    },
-    {
         "question": "The police is a group of bandits that are only there to protect the status quo.",
         "effect": {
             "econ": 0,
